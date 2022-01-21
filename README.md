@@ -1,6 +1,6 @@
 - Hello There! :wave: <br /> 
 
-My name’s Paulo Matheus de Paula Barreto Gouvêa. Currently I’m studying Computer Science at Veiga de Almeida and I’m also studying about React Native in a bootcamp from Rocketseat.<br /> <br /> 
+My name’s Paulo Matheus de Paula Barreto Gouvêa. Currently I’m studying Computer Science at Veiga de Almeida and I’m also studying about React Native and creating applications using it.<br /> <br /> 
 
 - About Me :house:	<br /> 
 
