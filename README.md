@@ -20,5 +20,5 @@ Computer Science - Universidade Veiga de Almeida (underway); <br /> <br />
 
 - Extracurricular Courses 	:notebook:	<br />
 
-React Native Trial - Rocketseat;
+React Native Trial - Rocketseat; <br />
 React JS Trial - Rocketseat (underway);
