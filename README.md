@@ -32,4 +32,4 @@ I hold a Bachelor’s degree in Computer Science from Universidade Veiga de Alme
 
 I’ve been striving to be more active on GitHub and LinkedIn, sharing projects and learnings.
 
-Nice to meet you! 🚀
+Nice to meet you!
