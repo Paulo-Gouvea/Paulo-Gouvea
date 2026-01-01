@@ -1,34 +1,35 @@
-- Hello There! :wave: <br /> 
+Olá! Seja bem-vindo(a) 👋
 
-My name is Paulo Matheus de Paula Barreto Gouvêa. At the moment I have been studying to become a full stack developer. I have been using React, Next, Styled-Components and others technologies in the front-end, Node.JS, postgres and typeorm in the back-end and React Native and expo for mobile. I also used technologies like api fetch, contexts for state management and firebase for back-end. I also studying Flutter (dart) and Android (kotlin) to increase my stack.<br /> <br /> 
+Atuo como Analista Desenvolvedor Salesforce na Global Hitss, desenvolvendo e mantendo soluções que reduzem retrabalho, automatizam processos e otimizam o cotidiano dos usuários. Tenho experiência com Flows, Apex, Triggers, Classes de Teste, Aura e Lightning Web Components (LWC), além da configuração administrativa do ambiente (perfis, permission sets, objetos, entre outros).
 
-- About Me :house:	<br /> 
+Além do ecossistema Salesforce, também tenho experiência com React, Next.js, React Native, Flutter e Node.js, desenvolvendo soluções front-end, back-end e mobile. Sou entusiasta de organização e produtividade, com forte uso do Notion no meu dia a dia.
 
-I am a person who likes to study more and more about technology so that I can develop applications that can help me become a better developer. I am also a fan of video games, good food (especially sweets) and always learning something new. <br /> <br />
+Atualmente curso a Pós Tech Developer 360 da Rocketseat, com foco em Front-end, Back-end, Arquitetura de Software, Infraestrutura e Inteligência Artificial. Também estudo continuamente pelo Trailhead, Curso.dev e cursos práticos de Flutter, buscando evoluir tecnicamente, conquistar novas certificações Salesforce e desenvolver projetos pessoais.
 
-- Personal Experiences :gear:	<br /> 
+Sou graduado em Ciências da Computação pela Universidade Veiga de Almeida (UVA), possuo curso de React Native (Rocketseat) e as certificações Salesforce:
+✔ Certified Associate
+✔ Certified AI Associate
+✔ Certified Administrator
 
-Right now I do not have any professional experience but I did some personal projects like a Weather forecast app, a basic pokedex app and some React.JS and React Native projects I did in bootcamps. Right now I am developing a medical appointment website with React, styled-components, node, typeorm and postgres.<br /> <br />
+Tenho buscado ser cada vez mais ativo no GitHub e no LinkedIn, compartilhando aprendizados e projetos.
 
-- Technologies :computer: :keyboard:		<br /> 
+Prazer em te conhecer! 
 
-Front-end: html | css | Javascript | Typescript | React.JS | Next.JS | Styled-components | Chakra.UI | Tailwind | Contexts | Fetch and Axios | React Query | React Router<br /> 
+(EN-US)
 
-Back-end: Node.JS | Javascript | Typescript | TypeORM | Postgresql | Postman (for testing requests) | Express<br />
+Hello! Welcome 👋
 
-Mobile: React Native | React Navigation | Typescript | Expo | Styled-components | Fetch and Axios | React Native Animations | Contexts<br />
+I currently work as a Salesforce Developer Analyst at Global Hitss, developing and maintaining solutions that reduce rework, automate processes, and optimize users’ day-to-day activities. I have experience with Flows, Apex, Triggers, Test Classes, Aura, and Lightning Web Components (LWC), as well as Salesforce administrative configuration (profiles, permission sets, objects, and more).
 
-I also used: Firebase | git | github | Bootstrap | Bulma | mongodb<br />
+Beyond the Salesforce ecosystem, I also have experience with React, Next.js, React Native, Flutter, and Node.js, building front-end, back-end, and mobile solutions. I’m an enthusiast of organization and productivity, with strong daily use of Notion.
 
-I also studying: dart | Flutter | Kotlin | Android<br /> <br />
+I am currently pursuing the Postgraduate Tech Developer 360 program at Rocketseat, focusing on Front-end, Back-end, Software Architecture, Infrastructure, and Artificial Intelligence. I also continuously study through Trailhead, Curso.dev, and practical Flutter courses, always aiming to grow technically, earn new Salesforce certifications, and build personal projects.
 
-- Educational Background :school:	<br />
+I hold a Bachelor’s degree in Computer Science from Universidade Veiga de Almeida (UVA), have completed a React Native course (Rocketseat), and hold the following Salesforce certifications:
+✔ Certified Associate
+✔ Certified AI Associate
+✔ Certified Administrator
 
-Computer Science - Universidade Veiga de Almeida (underway - expected to end june 2023); <br /> <br />
+I’ve been striving to be more active on GitHub and LinkedIn, sharing projects and learnings.
 
-- Extracurricular Courses and Bootcamps 	:notebook:	<br />
-
-React Native Trial - Rocketseat; <br />
-Decola Tech Third edition - DIO; <br />
-Flutterando Masterclass - Flutter Basics;  <br />
-React.JS Trial - Rocketseat; (underway) <br />
+Nice to meet you! 🚀
